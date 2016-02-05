@@ -1,0 +1,1 @@
+print "Oggi e il giorno 5 Febbraio 2016"
